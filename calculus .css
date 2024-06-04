@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+main {
+    padding: 2em;
+}
+
+section {
+    margin: 2em 0;
+}
+
+#derivative-demo, #integral-demo {
+    width: 100%;
+    height: 300px;
+    border: 1px solid #ccc;
+    background: #fff;
+    position: relative;
+}
+
